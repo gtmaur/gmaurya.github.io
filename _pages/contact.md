@@ -11,7 +11,7 @@ Florida State University\
 2525 Pottsdamer St,
 Tallahassee,FL 32310,USA
 
-Email: [gm22s@fsu.edu](email:gm22s@fsu.edu)
+Email: [gm22s@fsu.edu](mailto:gm22s@fsu.edu)
 
 
 ## Visit us
