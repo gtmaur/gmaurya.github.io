@@ -1,4 +1,3 @@
-markdown
 ---
 title: "Contact"
 permalink: /contact/
@@ -26,8 +25,3 @@ Email: [gm22s@fsu.edu](email:gm22s@fsu.edu)
   loading="lazy"
   referrerpolicy="no-referrer-when-downgrade">
 </iframe>
-
-<div style="margin-top:1rem;">
-  <a href="https://maps.google.com?q=FAMU-FSU+College+of+Engineering" class="btn btn--primary" target="_blank">📍 Directions</a>
-  <a href="https://scholar.google.com/" class="btn btn--warning" target="_blank">📚 Google Scholar</a>
-</div>
