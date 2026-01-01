@@ -27,4 +27,4 @@ See the manual for instructions on how to add yourself to the website, given in 
 
 A work in progress...
 
-Inspired by: https://fraserlab.com/2024/04/22/IT-suggestions-for-new-faculty/ and also: https://github.com/mangliklab/mangliklab.github.io
+Inspired and cloned from : https://fraserlab.com/2024/04/22/IT-suggestions-for-new-faculty/ and also: https://github.com/mangliklab/mangliklab.github.io
