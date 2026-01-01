@@ -1,3 +1,4 @@
+markdown
 ---
 title: "Contact"
 permalink: /contact/
