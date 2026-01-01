@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Manglik lab @ UCSF
-email: aashish.manglik@ucsf.edu
-description: Researching the molecular basis of transmembrane signaling and transport
+title: Maurya @ FSU
+email: gm22s@fsu.edu
+description: Research in Fluid Mechanics
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -23,8 +23,8 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "mint"
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "contrast"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -59,8 +59,9 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mangliklab/"
+      url: "https://github.com/gtmaur/"
 
+  
 defaults:
   # _posts
   - scope:
@@ -90,3 +91,4 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+

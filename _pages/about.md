@@ -1,12 +1,24 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /Contact/
+title: "Contact"
 ---
 
-Department of Pharmaceutical Chemistry\
-Department of Anesthesia\
-1700 4th Street, Byers Hall B508C\
-UCSF Box 2550\
-San Francisco, CA 94143
+Department of Mechanical and Aerospace Engineering\
+FAMU-FSU College of Engineering\
+Florida State University\
+2525 Pottsdamer St,
+Tallahassee,FL 32310,USA
 
-​Phone: [415-502-3744](tel:+1-415-502-3744)
+Email: [gm22s@fsu.edu](email:gm22s@fsu.edu)
+
+
+Map
+<iframe
+  width="100%"
+  height="400"
+  style="border:0;"
+  loading="lazy"
+  allowfullscreen
+  referrerpolicy="no-referrer-when-downgrade"
+  src="https://www.google.com/maps?q=FAMU-FSU%20College%20of%20Engineering%2C%202525%20Pottsdamer%20St%2C%20Tallahassee%2C%20FL%2032310&output=embed">
+</iframe>

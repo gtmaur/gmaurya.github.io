@@ -44,15 +44,15 @@ Twitter: [@{{ member.twitter }}](https://twitter.com/{{ member.twitter }})
 
 
 
-# Former members
+<!-- Former members
 
 
 {% for author in site.data.authors %}
 {% assign member = author[1] %}
 {% if member.member %}
-{% unless member.current %}
+{% unless member.current %} -->
 
-### {{ member.name }}
+<!-- ### {{ member.name }}
 
 {% if member.bio %}
 **{{ member.bio }}** {% if member.start %}({{ member.start}}{% if member.end %}&ndash;{{ member.end }}{% endif %}){% endif %}
@@ -62,12 +62,10 @@ Next: {{ member.next }}
 {% endif %}
 {% endunless %}
 {% endif %}
-{% endfor %}
+{% endfor %} -->
 
-# Joining
+# Collaborations
 
-We are actively recruiting highly motivated graduate students and postdoctoral fellows interested in problems at the intersection of transmembrane signaling, protein biophysics, and human disease.
+I am open to have collaborations with researchers working in fluid mechanics, computational and experimental flow physics, data-driven modeling, and bio-inspired locomotion. My research focuses on force diagnostics, vorticity-based analysis, and physics-informed data-driven techniques to understand complex unsteady and turbulent flows arising in engineered and biological systems.
 
-Interested graduate students should apply to one of the UCSF graduate programs.
-
-Postdoctoral fellows should contact Aashish directly with a CV, research proposal, and three references.
+I am particularly interested in collaborative projects involving immersed boundary methods, vortex–structure interactions, reduced-order modeling, machine-learning-assisted CFD, and biological propulsion (e.g., swimming and flying systems). Interdisciplinary efforts that bridge theory, computation, and experiments are strongly encouraged.
