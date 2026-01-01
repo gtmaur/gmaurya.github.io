@@ -23,9 +23,7 @@ Getting started
 
 Please test your changes locally before pushing.
 
-See lab manual for instructions on how to add yourself to the website!
-
-
+See the manual for instructions on how to add yourself to the website, given in the link below!
 
 A work in progress...
 
