@@ -9,5 +9,7 @@ main:
     url: /posts/
   - title: "Tags"
     url: /tags/
+  - title: "Awards"
+    url: /awards/
   - title: "Contact"
     url: /contact/
