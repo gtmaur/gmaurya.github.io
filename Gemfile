@@ -18,5 +18,5 @@ group :jekyll_plugins do
   gem "csv"
   gem "github-pages"
   gem "jekyll-include-cache"
-  #gem "minimal-mistakes-jekyll"
+  gem "minimal-mistakes-jekyll"
 end
