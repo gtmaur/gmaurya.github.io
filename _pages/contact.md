@@ -1,23 +1,18 @@
 ---
 title: "Contact"
-permalink: /contact/
 layout: single
+permalink: /contact/
 ---
 
-
-Department of Mechanical and Aerospace Engineering\
-FAMU-FSU College of Engineering\
-Florida State University\
-2525 Pottsdamer St,
-Tallahassee, FL 32310, USA
+Department of Mechanical and Aerospace Engineering  
+FAMU-FSU College of Engineering  
+Florida State University  
+2525 Pottsdamer St, Tallahassee, FL 32310, USA
 
 Email: [gm22s@fsu.edu](mailto:gm22s@fsu.edu)
 
-
-## Visit us
-
 <iframe
-  width="100%."
+  width="100%"
   height="400"
   style="border:0;"
   loading="lazy"
