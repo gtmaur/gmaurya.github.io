@@ -16,5 +16,7 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
   gem "csv"
+  gem "github-pages"
+  gem "jekyll-include-cache"
   #gem "minimal-mistakes-jekyll"
 end
