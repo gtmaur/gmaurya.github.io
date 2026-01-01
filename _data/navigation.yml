@@ -11,5 +11,7 @@ main:
     url: /tags/
   - title: "Awards"
     url: /awards/
+  - title: "Gallery"
+    url: /gallery/
   - title: "Contact"
     url: /contact/
