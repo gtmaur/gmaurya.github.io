@@ -1,30 +1,4 @@
-Getting started
-===============
-
- 1. Install all [prerequisites](https://jekyllrb.com/docs/installation/)
- 1. Install the jekyll and bundler gems
-    ```
-    gem install jekyll bundler
-    ```
- 1. Clone this repository
-    ```
-    git clone git@github.com:gtmaur/gmaurya.github.io.git
-    ```
- 1. Change into your new directory
-    ```
-    cd gmaurya.github.io
-    ```
- 1. Build the site and make it available on a local server
-    ```
-    bundle exec jekyll serve
-    ```
- 1. Browse to `http://localhost:4000`
-
-
-Please test your changes locally before pushing.
-
-See the manual for instructions on how to add yourself to the website, given in the link below!
 
 A work in progress...
 
-Inspired and cloned from : https://fraserlab.com/2024/04/22/IT-suggestions-for-new-faculty/ and also: https://github.com/mangliklab/mangliklab.github.io
+Inspired and cloned from :https://github.com/fraser-lab/fraser-lab.github.io
