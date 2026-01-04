@@ -1,4 +1,4 @@
 
 A work in progress...
 
-Inspired and cloned from :https://github.com/fraser-lab/fraser-lab.github.io
+This website is inspired by the work of: https://github.com/fraser-lab/fraser-lab.github.io
