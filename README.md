@@ -2,8 +2,9 @@
 
 A clean, responsive personal website for showcasing academic research, publications, projects, and professional achievements.
 
-![Website Status](https://img.shields.io/badge/website-live-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
+[![Website](https://img.shields.io/badge/website-live-brightgreen)](https://gmaurya.github.io)
+[![License](https://img.shields.io/github/license/gtmaur/gmaurya.github.io)](LICENSE)
+
 
 ---
 
@@ -15,8 +16,6 @@ The website highlights:
 - Research interests
 - Publications and citations
 - Conference talks and presentations
-- Research and software projects
-- Technical skills
 - Awards and leadership activities
 
 ---
@@ -24,10 +23,6 @@ The website highlights:
 ## Features
 
 - Research-focused layout
-- Interactive and animated elements
-- Publication listings with PDF and BibTeX support
-- Visual project showcase
-- Dynamic skill visualization
 - Mobile-friendly responsive design
 - Lightweight and fast (no frameworks)
 
@@ -37,13 +32,10 @@ The website highlights:
 
 - HTML5
 - CSS3
-- Vanilla JavaScript
-- Font Awesome Icons
-- CSS Animations
+- jekyll
+- Ruby
+- RubyGems
 - GitHub Pages
-
----
-
 
 ---
 
@@ -52,9 +44,14 @@ The website highlights:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-username.github.io.git
-cd your-username.github.io
+1 - git clone https://github.com/gtmaur/gmaurya.github.io.git
+2 - cd gmaurya.github.io
 
+Build the site and make it available on a local server
+3 - bundle exec jekyll serve
+4 - Browse to http://localhost:4000
+
+```
 ## License
 
 This project is licensed under the **MIT License**.  
