@@ -65,6 +65,7 @@ See the `LICENSE` file for more details.
 ## Credits
 
 This website draws inspiration from:
+A work in progress...
 - [Fraser](https://fraserlab.com/)
 
 ---
