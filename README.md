@@ -3,7 +3,7 @@
 A clean, responsive personal website for showcasing academic research, publications, projects, and professional achievements.
 
 [![Website](https://img.shields.io/badge/website-live-brightgreen)](https://gmaurya.github.io)
-[![License](https://img.shields.io/github/license/gtmaur/gmaurya.github.io)](LICENSE)
+[![License](https://img.shields.io/github/license/gtmaur/gtmaur.github.io)](LICENSE)
 
 
 ---
