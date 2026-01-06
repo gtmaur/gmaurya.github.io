@@ -48,6 +48,7 @@ The website highlights:
 2 - cd gmaurya.github.io
 
 Build the site and make it available on a local server
+
 3 - bundle exec jekyll serve
 4 - Browse to http://localhost:4000
 
@@ -64,7 +65,7 @@ See the `LICENSE` file for more details.
 ## Credits
 
 This website draws inspiration from:
-- [Fraser](www.fraser-lab.com)
+- [Fraser](https://fraserlab.com/)
 
 ---
 
