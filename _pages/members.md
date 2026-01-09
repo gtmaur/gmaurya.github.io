@@ -1,6 +1,6 @@
 ---
-title: Members
-permalink: /members/
+title: About me
+permalink: /about me/
 layout: single
 ---
 
