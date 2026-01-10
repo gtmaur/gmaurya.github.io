@@ -9,3 +9,48 @@ $max-width: 100%;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.event-box {
+    display: flex;
+    gap: 24px;
+    margin: 2rem 0;
+    padding: 20px;
+    border: 1px solid rgba(0,0,0,0.12);
+    border-radius: 14px;
+    background: #fff;
+  }
+  
+  .event-image img {
+    width: 220px;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  
+  .event-content h3 {
+    margin-top: 0;
+    margin-bottom: 6px;
+  }
+  
+  .event-date {
+    font-size: 0.9rem;
+    opacity: 0.75;
+    margin-bottom: 8px;
+  }
+  
+  /* Mobile friendly */
+  @media (max-width: 768px) {
+    .event-box {
+      flex-direction: column;
+    }
+  
+    .event-image img {
+        width: 220px;
+        height: 160px;          /* FIXED height */
+        object-fit: cover;     /* crops image nicely */
+        border-radius: 10px;
+        display: block;
+      }
+      
+  }
+  

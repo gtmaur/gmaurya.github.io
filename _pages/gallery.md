@@ -4,7 +4,6 @@ layout: single
 permalink: /gallery/
 ---
 
-
 {% for author in site.data.authors %}
 {% assign member = author[1] %}
 {% if member.member %}
@@ -64,3 +63,28 @@ Next: {{ member.next }}
 {% endunless %}
 {% endif %}
 {% endfor %} -->
+=======
+permalink: /Gallery/
+layout: single
+---
+
+{% for ev in site.data.events %}
+  {% include event_gallery.html event=ev %}
+  <hr />
+{% endfor %}
+
+<style>
+.event-image {
+  flex: 0 0 auto;   /* keep existing width */
+}
+
+.event-image img {
+  height: 320px !important;   /* fixed height */
+  width: auto !important;     /* keep original width */
+  max-width: 100%;            /* safety */
+  object-fit: cover !important;
+  border-radius: 10px;
+  display: block;
+}
+</style>
+

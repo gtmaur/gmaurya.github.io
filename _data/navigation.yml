@@ -1,14 +1,16 @@
 main:
+  - title: "About me"
+    url: /about me/
   - title: "Research"
     url: /research/
   - title: "Publications"
     url: /publications/
-  - title: "About me"
-    url: /about me/
   - title: "Posts"
     url: /posts/
   - title: "Tags"
     url: /tags/
+  - title: "Leadership"
+    url: /leadership/
   - title: "Awards"
     url: /awards/
   - title: "Gallery"

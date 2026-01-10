@@ -9,7 +9,8 @@ FAMU-FSU College of Engineering
 Florida State University  
 2525 Pottsdamer St, Tallahassee, FL 32310, USA
 
-Email: [gm22s@fsu.edu](mailto:gm22s@fsu.edu)
+Email: [gautam@alumni.iitm.ac.in](email:gautam@alumni.iitm.ac.in)
+
 
 <iframe
   width="100%"
