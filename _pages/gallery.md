@@ -15,7 +15,7 @@ permalink: /gallery/
 }
 
 .event-image img {
-  height: 320px !important;   /* fixed height */
+  height: 220px !important;   /* fixed height */
   width: auto !important;     /* keep original width */
   max-width: 100%;            /* safety */
   object-fit: cover !important;
