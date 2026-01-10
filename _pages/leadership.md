@@ -1,6 +1,6 @@
 ---
 title: "Leadership"
-permalink: /Leadership/
+permalink: /leadership/
 layout: single
 ---
 
