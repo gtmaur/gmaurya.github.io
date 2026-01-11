@@ -12,7 +12,7 @@ layout: single
 ## {{ member.name }}
 
 {% if member.avatar %}
-![Photograph of {{member.name}}]({{member.avatar}}){:style="float: left; object-fit: contain; width: 10%; max-height: 12em; margin-left: 1em; margin-right: 1em;"}
+![Photograph of {{member.name}}]({{member.avatar}}){:style="float: left; object-fit: contain; width: 40%; max-height: 12em; margin-left: 1em; margin-right: 1em;"}
 {% endif %}
 
 {% if member.bio %}
@@ -64,21 +64,52 @@ Next: {{ member.next }}
 {% endif %}
 {% endfor %} -->
 
-# Skills:
-Programming Languages:- Fortran, Matlab,  Python, C++, Linux/Unix, Git/Github, OpenMP, and  MPI
-Scientific Libraries:- NumPy, Scikit-learn, Pytorch
-CFD software:- OpenFoam, Ansys Fluent, CFX, and Turbogrid
-Visualization tools:- VisIT, Paraview, Tecplot, Totalview, and OriginLab
-Meshing softwares: - ICEMCFD and Rhinoceros 3D 
-Documentation software:- LaTeX, MS word and  MS PowerPoint
+<h2>Skills</h2>
 
-# Professional memberships:
-American Society of Mechanical Engineers (ASME) - 2019, 2024
-American Physical Society (APS) - 2023, 2024, 2025
-American Institute of Aeronautics and Astronautics (AIAA) - 2024
+<div class="skill-grid justified">
+  <strong>Programming Languages</strong>
+  <span>Fortran, MATLAB, Python, C++, Linux/Unix, Git/GitHub, OpenMP, MPI</span>
 
-# Collaborations:
+  <strong>Scientific & ML Libraries</strong>
+  <span>NumPy, Scikit-learn, PyTorch</span>
 
-I am open to collaborations with researchers working in fluid mechanics, computational and experimental flow physics, data-driven modeling, and bio-inspired locomotion. My research focuses on force diagnostics, vorticity-based analysis, and physics-informed data-driven techniques to understand complex unsteady and turbulent flows arising in engineered and biological systems.
+  <strong>CFD Software</strong>
+  <span>OpenFOAM, ANSYS Fluent, ANSYS CFX, ANSYS TurboGrid</span>
 
-I am particularly interested in collaborative projects involving immersed boundary methods, vortex–structure interactions, reduced-order modeling, machine-learning-assisted CFD, and biological propulsion (e.g., swimming and flying systems). Interdisciplinary efforts that bridge theory, computation, and experiments are strongly encouraged.
+  <strong>Visualization & Debugging</strong>
+  <span>VisIt, ParaView, Tecplot, TotalView, OriginLab</span>
+
+  <strong>Meshing Software</strong>
+  <span>ICEM CFD, Rhinoceros 3D</span>
+
+  <strong>Documentation</strong>
+  <span>LaTeX, Microsoft Word, Microsoft PowerPoint</span>
+</div>
+
+<h2>Professional Memberships</h2>
+
+<div class="justified">
+  <ul>
+    <li><strong>American Society of Mechanical Engineers (ASME)</strong> — 2019–2024</li>
+    <li><strong>American Physical Society (APS)</strong> — 2023–2025</li>
+    <li><strong>American Institute of Aeronautics and Astronautics (AIAA)</strong> — 2024</li>
+  </ul>
+</div>
+
+<h2>Collaborations</h2>
+
+<div class="justified">
+  <p>
+    I am open to research collaborations in fluid mechanics, computational and experimental
+    flow physics, data-driven modeling, and bio-inspired locomotion. My research focuses on
+    force diagnostics, vorticity-based analysis, and physics-informed data-driven techniques
+    to understand complex unsteady and turbulent flows in engineered and biological systems.
+  </p>
+
+  <p>
+    I am particularly interested in collaborative projects involving immersed boundary
+    methods, vortex–structure interactions, reduced-order modeling, and machine-learning-assisted
+    CFD, and biological propulsion (e.g., swimming and flying systems). Interdisciplinary
+    efforts that bridge theory, computation, and experiments are strongly encouraged.
+  </p>
+</div>
