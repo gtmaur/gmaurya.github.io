@@ -52,20 +52,5 @@ $max-width: 100%;
       
   }
 
-.justified {
-  text-align: justify;
-  text-justify: inter-word;
-}
-
-.skill-grid {
-  display: grid;
-  grid-template-columns: 1fr 2fr;
-  column-gap: 20px;
-  row-gap: 6px;
-}
-
-.skill-grid strong {
-  white-space: nowrap;
-}
 
   
