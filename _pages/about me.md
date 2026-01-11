@@ -65,20 +65,20 @@ Next: {{ member.next }}
 {% endfor %} -->
 
 # Skills:
-Programming Languages:- Fortran, Matlab,  Python, C++, Linux/Unix, Git/Github, OpenMP and  MPI
-Scientific Liabraries:- NumPy, Scikit-learn, Pytorch, CUDA
-CFD softwares:- OpenFoam, Ansys Fluent, CFX and Turbogrid
-Visualization tools:- VisIT, Paraview, Tecplot, Totalview and OriginLab
+Programming Languages:- Fortran, Matlab,  Python, C++, Linux/Unix, Git/Github, OpenMP, and  MPI
+Scientific Libraries:- NumPy, Scikit-learn, Pytorch
+CFD software:- OpenFoam, Ansys Fluent, CFX, and Turbogrid
+Visualization tools:- VisIT, Paraview, Tecplot, Totalview, and OriginLab
 Meshing softwares: - ICEMCFD and Rhinoceros 3D 
-Documentation softwares:- Latex, MS word and  MS Powerpoint
+Documentation software:- LaTeX, MS word and  MS PowerPoint
 
 # Professional memberships:
 American Society of Mechanical Engineers (ASME) - 2019, 2024
-American Physical Scoiety (APS) - 2023, 2024, 2025
+American Physical Society (APS) - 2023, 2024, 2025
 American Institute of Aeronautics and Astronautics (AIAA) - 2024
 
 # Collaborations:
 
-I am open to have collaborations with researchers working in fluid mechanics, computational and experimental flow physics, data-driven modeling, and bio-inspired locomotion. My research focuses on force diagnostics, vorticity-based analysis, and physics-informed data-driven techniques to understand complex unsteady and turbulent flows arising in engineered and biological systems.
+I am open to collaborations with researchers working in fluid mechanics, computational and experimental flow physics, data-driven modeling, and bio-inspired locomotion. My research focuses on force diagnostics, vorticity-based analysis, and physics-informed data-driven techniques to understand complex unsteady and turbulent flows arising in engineered and biological systems.
 
 I am particularly interested in collaborative projects involving immersed boundary methods, vortex–structure interactions, reduced-order modeling, machine-learning-assisted CFD, and biological propulsion (e.g., swimming and flying systems). Interdisciplinary efforts that bridge theory, computation, and experiments are strongly encouraged.
