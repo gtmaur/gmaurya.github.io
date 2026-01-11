@@ -64,7 +64,20 @@ Next: {{ member.next }}
 {% endif %}
 {% endfor %} -->
 
-# Collaborations
+# Skills:
+Programming Languages:- Fortran, Matlab,  Python, C++, Linux/Unix, Git/Github, OpenMP and  MPI
+Scientific Liabraries:- NumPy, Scikit-learn, Pytorch, CUDA
+CFD softwares:- OpenFoam, Ansys Fluent, CFX and Turbogrid
+Visualization tools:- VisIT, Paraview, Tecplot, Totalview and OriginLab
+Meshing softwares: - ICEMCFD and Rhinoceros 3D 
+Documentation softwares:- Latex, MS word and  MS Powerpoint
+
+# Professional memberships:
+American Society of Mechanical Engineers (ASME) - 2019, 2024
+American Physical Scoiety (APS) - 2023, 2024, 2025
+American Institute of Aeronautics and Astronautics (AIAA) - 2024
+
+# Collaborations:
 
 I am open to have collaborations with researchers working in fluid mechanics, computational and experimental flow physics, data-driven modeling, and bio-inspired locomotion. My research focuses on force diagnostics, vorticity-based analysis, and physics-informed data-driven techniques to understand complex unsteady and turbulent flows arising in engineered and biological systems.
 
