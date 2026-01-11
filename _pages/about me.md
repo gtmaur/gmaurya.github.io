@@ -64,29 +64,24 @@ Next: {{ member.next }}
 {% endif %}
 {% endfor %} -->
 
-<h2>Skills</h2>
+<h2>Skills:</h2>
 
 <div class="skill-grid justified">
-  <strong>Programming Languages</strong>
-  <span>Fortran, MATLAB, Python, C++, Linux/Unix, Git/GitHub, OpenMP, MPI</span>
-
-  <strong>Scientific & ML Libraries</strong>
-  <span>NumPy, Scikit-learn, PyTorch</span>
-
-  <strong>CFD Software</strong>
-  <span>OpenFOAM, ANSYS Fluent, ANSYS CFX, ANSYS TurboGrid</span>
-
-  <strong>Visualization & Debugging</strong>
-  <span>VisIt, ParaView, Tecplot, TotalView, OriginLab</span>
-
-  <strong>Meshing Software</strong>
-  <span>ICEM CFD, Rhinoceros 3D</span>
-
-  <strong>Documentation</strong>
-  <span>LaTeX, Microsoft Word, Microsoft PowerPoint</span>
+  <strong>Programming Languages:</strong>
+  <span>Fortran, MATLAB, Python, C++, Linux/Unix, Git/GitHub, OpenMP, MPI</span><br>
+  <strong>Scientific & ML Libraries:</strong>
+  <span>NumPy, Scikit-learn, PyTorch</span><br>
+  <strong>CFD Software:</strong>
+  <span>OpenFOAM, ANSYS Fluent, ANSYS CFX, ANSYS TurboGrid</span><br>
+  <strong>Visualization & Debugging:</strong>
+  <span>VisIt, ParaView, Tecplot, TotalView, OriginLab</span><br>
+  <strong>Meshing Software:</strong>
+  <span>ICEM CFD, Rhinoceros 3D</span><br>
+  <strong>Documentation:</strong>
+  <span>LaTeX, Microsoft Word, Microsoft PowerPoint</span><br>
 </div>
 
-<h2>Professional Memberships</h2>
+<h2>Professional Memberships:</h2>
 
 <div class="justified">
   <ul>
@@ -96,7 +91,7 @@ Next: {{ member.next }}
   </ul>
 </div>
 
-<h2>Collaborations</h2>
+<h2>Collaborations:</h2>
 
 <div class="justified">
   <p>
