@@ -100,11 +100,4 @@ Next: {{ member.next }}
     force diagnostics, vorticity-based analysis, and physics-informed data-driven techniques
     to understand complex unsteady and turbulent flows in engineered and biological systems.
   </p>
-
-  <p>
-    I am particularly interested in collaborative projects involving immersed boundary
-    methods, vortex–structure interactions, reduced-order modeling, and machine-learning-assisted
-    CFD, and biological propulsion (e.g., swimming and flying systems). Interdisciplinary
-    efforts that bridge theory, computation, and experiments are strongly encouraged.
-  </p>
 </div>
