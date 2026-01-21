@@ -20,13 +20,12 @@
 gautam-maurya:
   name:     Gautam Maurya
   bio:      PhD Candidate, Department of Mechanical and Aerospace Engineering
-  fullbio:  "Gautam is a PhD candidate in Department of Mechanical and Aerospace Engineering at the FAMU–FSU College of Engineering, Florida State University, working with Dr. Kourosh Shoele. His research interests include fluid–structure interaction, turbulent flows, and data-driven reduced-order modeling. He earned his MS by Research from IIT Madras in 2021 and completed his undergraduate studies in Aeronautical Engineering at Dr. A. P. J. Abdul Kalam Technical University, Lucknow."
+  fullbio:  "Gautam is a PhD candidate in the Department of Mechanical and Aerospace Engineering at the FAMU–FSU College of Engineering, Florida State University, working with Dr. Kourosh Shoele. His research interests include fluid–structure interaction, turbulent flows, and data-driven reduced-order modeling. He earned his MS by Research from IIT Madras in 2021 and completed his undergraduate studies in Aeronautical Engineering at Dr. A. P. J. Abdul Kalam Technical University, Lucknow."
   avatar:   /assets/images/gautam-maurya.jpg
   member:   true
   current:  true
   email:    gautam@alumni.iitm.ac.in
-  gscholar: ttps://scholar.google.com/citations?user=sHxQtsYAAAAJ&hl=en
-
+ 
   links:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
