@@ -85,9 +85,9 @@ Next: {{ member.next }}
 
 <div class="justified">
   <ul>
-    <li><strong>American Society of Mechanical Engineers (ASME)</strong> — 2019–2024</li>
-    <li><strong>American Physical Society (APS)</strong> — 2023–2025</li>
-    <li><strong>American Institute of Aeronautics and Astronautics (AIAA)</strong> — 2024</li>
+    <li><strong>American Society of Mechanical Engineers (ASME)</strong> - 2019-2024</li>
+    <li><strong>American Physical Society (APS)</strong> - <2023–2025</li>
+    <li><strong>American Institute of Aeronautics and Astronautics (AIAA)</strong> - 2024</li>
   </ul>
 </div>
 
