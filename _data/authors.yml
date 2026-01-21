@@ -25,6 +25,7 @@ gautam-maurya:
   member:   true
   current:  true
   email:    gautam@alumni.iitm.ac.in
+  gscholar: ttps://scholar.google.com/citations?user=sHxQtsYAAAAJ&hl=en
 
   links:
     - label: "Google Scholar"
