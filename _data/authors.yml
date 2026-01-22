@@ -27,9 +27,7 @@ gautam-maurya:
   current:  true
   email:    gautam@alumni.iitm.ac.in
 
-  <p>"Code with curiosity. Model with math. Simulate with science."<p>
-
-
+  <p><strong>Code with curiosity. Model with math. Simulate with science.</strong></p>
  
   links:
     - label: "Google Scholar"
