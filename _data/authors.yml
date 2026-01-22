@@ -17,6 +17,7 @@
 #  twitter:  ExampleHandle
 #  website:  https://example.com/
 
+
 gautam-maurya:
   name:     Gautam Maurya
   bio:      PhD Candidate, Department of Mechanical and Aerospace Engineering
@@ -25,6 +26,10 @@ gautam-maurya:
   member:   true
   current:  true
   email:    gautam@alumni.iitm.ac.in
+
+  <p>"Code with curiosity. Model with math. Simulate with science."<p>
+
+
  
   links:
     - label: "Google Scholar"
