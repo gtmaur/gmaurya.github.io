@@ -1,4 +1,9 @@
 ---
+title: My Hidden Page
+published: false
+---
+
+---
 name: Animal biolocomotion and multiple legged motion
 index: 2
 image: /assets/images/krill.jpg
