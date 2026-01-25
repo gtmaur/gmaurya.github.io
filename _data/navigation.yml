@@ -11,8 +11,6 @@ main:
     url: /tags/
   - title: "Leadership"
     url: /leadership/
-  <!-- title: "Awards"-->
-    <!-- url: /awards/-->
   - title: "Gallery"
     url: /gallery/
   - title: "Contact"
