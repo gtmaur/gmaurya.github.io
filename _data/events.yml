@@ -1,8 +1,14 @@
+- title: "MEGSA Poster Competition."
+  date: "April 2026"
+  image: "/assets/images/Megsa_poster_comp.jpeg"
+  description: >
+   Participated in the Mechanical Engineering Graduate Student Association (MEGSA) Poster Competition at Florida State University, presenting research on “Effect of Phase Lag on Metachronal Swimming.” The work focused on analyzing hydrodynamic force contributions—including added mass, vortex-induced forces, and viscous effects—using a force partitioning method (FPM). The study provided insights into the role of phase lag in enhancing propulsion efficiency in bio-inspired locomotion. Engaged with faculty, researchers, and industry representatives, effectively communicating complex computational fluid dynamics concepts and receiving constructive feedback on research methodology and presentation.
+
 - title: "Space Center Houston"
   date: "November 2025"
   image: "/assets/images/houston.jpeg"
   description: >
-    Visited the Houston Space Center, exploring NASA's historic mission control, astronaut training facilities, and iconic spacecraft. The experience offered an inspiring look into human space exploration, engineering innovation, and the legacy of space science..
+    Visited the Houston Space Center, exploring NASA's historic mission control, astronaut training facilities, and iconic spacecraft. The experience offered an inspiring look into human space exploration, engineering innovation, and the legacy of space science.
 
 - title: "Group photo of FSU-FAMU CTML team at APS-DFD 2025"
   date: "November 2025"
