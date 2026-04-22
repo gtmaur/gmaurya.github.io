@@ -1,1 +1,3 @@
-www.gmaurya.com
+Type: CNAME
+Name: www
+Value: gmaurya.github.io
